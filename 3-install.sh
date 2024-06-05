@@ -82,6 +82,7 @@ read -p ">LibreOffice / WPS Office  [info]" PacOfi
 
 case "$PacOfi" in
   1 | "LIBLEOFFICE" | "LibleOffice" | "lIBLEoFFICE" | "LIBLE" | "lIBLE" | "Lible" | "lible" | "LIB" | "lIB" | "lib" | "LIb")
+    
     ;;
 
   2 | "WPSOffice" | "WPS Office" | "wpsoffice" | "wps office"  | "wpsoFFICE" | "wps oFFICE" | "WPSOFFICE" | "WPS OFFICE" | "w" | "W")
